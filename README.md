@@ -1,6 +1,6 @@
 # React
 
-## Para instalar usar npm insstall
+## Para instalar usar npm install
 
 Simple app donde se hace uso de las tecnologías:
 
